@@ -1,6 +1,6 @@
 - Mehmetcan ESER
 - Bandırma Onyedi Eylül Üniversitesi
-- JAVA ve C ile ilgileniyorum
+- JAVA, C, C++, HTML - CSS
 - Bana ceser446@gmail.com üzerinden ulaşabilirsiniz
 
 <!---
