@@ -1,7 +1,7 @@
 - Mehmetcan ESER
 - Bandırma Onyedi Eylül Üniversitesi
-- JAVA, C, C++, HTML - CSS
-- Bana ceser446@gmail.com üzerinden ulaşabilirsiniz
+- C, C++, JAVA, PYTHON, HTML - CSS
+- You can reach me at ceser446@gmail.com
 - Linkedln: https://www.linkedin.com/in/mehmetcan-eser-1265a7210/
 
 <!---
