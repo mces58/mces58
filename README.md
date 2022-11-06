@@ -8,16 +8,16 @@
 ### ***<div align="center">I'm Mehmetcan, a junior freelance developer 👨‍💻 A passionate junior developer from Turkey🤓</div>***  
   
 
-- <ins>📓I am currently studying at Bandırma On Yedi Eylül University</ins>  
+<ins><div align="center">📓I am currently studying at Bandırma On Yedi Eylül University </div></ins>  
   
 
-- <ins>🌱 I’m currently learning Angular, React, Flutter</ins>  
+<ins><div align="center">🌱 I’m currently learning Angular, React, Flutter </div></ins>  
   
 
-- <ins>❓ Ask me about Java, Spring, Hibernate, HTML, CSS, JS</ins>  
+<ins><div align="center">❓ Ask me about Java, Spring, Hibernate, HTML, CSS, JS </div></ins>  
   
 
-- <ins>⚡ Fun fact: Think twice, one code</ins>  
+<ins><div align="center">⚡ Fun fact: Think twice, one code </div></ins>  
   
 
 <br/>  
