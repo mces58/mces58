@@ -1,11 +1,9 @@
-
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="400"/>
 </div>  
   
 
-### ***<div align="center">I'm Mehmetcan, a junior freelance developer 👨‍💻 A passionate junior developer from Turkey🤓</div>***  
+### ***<div align="center">I'm Mehmetcan, a junior freelance developer 👨‍💻 from Turkey</div>***  
   
 
 <ins><div align="center">📓I am currently studying at Bandırma On Yedi Eylül University </div></ins>  
