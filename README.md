@@ -80,6 +80,9 @@ me.say_hi()
 <!-- connect with me --->
 ## ***Connect with me***
 <div align="center">
+<a href="https://ceser446@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black alt=gmail style="margin: 10px;" />
+</a>
 <a href="https://linkedin.com/in/mehmetcan-eser-1265a7210" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black alt=linkedin style="margin: 10px;" />
 </a>
