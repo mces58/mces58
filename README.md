@@ -1,38 +1,45 @@
+<!-- coder.gif -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="400"/>
-</div>  
+  <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" align="center" height="100" width="800" />
+</div>
+</br>
+<hr>
+
+<!-- about me code -->
+```python
+class ComputerEngineer:
+
+    def __init__(self):
+        self.name = "Mehmetcan ESER"
+        self.role = "Computer Engineer"
+        self.language_spoken = ["tr_TR", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+me = ComputerEngineer()
+me.say_hi()
+```
+</br>
+<hr>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+<!-- snake -->
+<!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
-### ***<div align="center">I'm Mehmetcan, a junior freelance developer 👨‍💻 from Turkey</div>***  
-  
+<!-- quick stats about me -->
+## ***Quick stats about me***
+| Github Stats | Top Languages | 
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=mces58&show_icons=true&count_private=true&hide_border=false&bg_color=30,FD841F,9C2C77&title_color=fff&text_color=000) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mces58&hide_border=false&bg_color=70,181818,850E35&title_color=fff&text_color=fff) |
+</br>
+<hr>
 
-<ins><div align="center">📓I am currently studying at Bandırma On Yedi Eylül University </div></ins>  
-  
-
-<ins><div align="center">🌱 I’m currently learning Angular, React, Flutter </div></ins>  
-  
-
-<ins><div align="center">❓ Ask me about Java, Spring, Hibernate, HTML, CSS, JS </div></ins>  
-  
-
-<ins><div align="center">⚡ Fun fact: Think twice, one code </div></ins>
-  
-
-<br/>  
-
-
-## My Skill Set  
+<!-- my skill set -->
+## ***My Skill Set***
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+### ***Frontend***
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" /></a>  
@@ -44,7 +51,7 @@
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### ***Backend*** 
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>  
@@ -59,9 +66,7 @@
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+### ***DevOps***  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
@@ -69,68 +74,45 @@
 </div>
 
 </td></tr></table>  
-
 <br/>  
+<hr>
 
-
-## Connect with me  
+<!-- connect with me --->
+## ***Connect with me***
 <div align="center">
 <a href="https://linkedin.com/in/mehmetcan-eser-1265a7210" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black alt=linkedin style="margin-bottom: 25px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black alt=linkedin style="margin: 10px;" />
 </a>
 <a href="https://github.com/mces58" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 25px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 10px;" />
 </a>
 <a href="https://codepen.com/mc_es58" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 25px;" />
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin: 10px;" />
 </a>
 <a href="https://stackoverflow.com/users/20206939/can" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=black alt=stackoverflow style="margin-bottom: 25px;" />
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=black alt=stackoverflow style="margi: 10px;" />
 </a>
 <a href="https://medium.com/@ceser446" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 25px;" />
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin: 10px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCwkBsL4p43ktNKS0tP-fqiw" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=black alt=youtube style="margin-bottom: 25px;" />
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=black alt=youtube style="margin: 10px;" />
 </a>  
 </div>  
-  
+<br/>
+<hr>
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mces58&show_icons=true&count_private=true&hide_border=false&theme=great-gatsby" align="center" /></div>
-
-<br/> 
-
-<br/> 
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mces58&theme=blue-green&hide_border=false" align="center" /></div>
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
+<!-- music -->
+## ***Spotify***
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31v4s6i6rxks276x5y3odfmltlbi&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
+<hr>
 
-<br/>  
+<!-- constribution graph -->
+## ***Constribution graph***
+<a href="https://github.com/mces58/github-readme-activity-graph"><img alt="Mehmetcan's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mces58&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFF&hide_border=true" /></a>
+</br>
+<hr>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mces58&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
