@@ -1,6 +1,7 @@
 <!-- coder.gif -->
+<!-- https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" align="center" height="100" width="800" />
+  <img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" align="center" height="300" width="800" />
 </div>
 </br>
 <hr>
