@@ -1,7 +1,9 @@
 <!-- coder.gif -->
 <!-- https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif -->
+<!-- hack the planet.gif-->
+<!-- https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" align="center" height="300" width="800" />
+  <img src="https://media.giphy.com/media/1iTH1WIUjM0VATSw/giphy.gif" align="center" height="300" width="800" />
 </div>
 </br>
 <hr>
