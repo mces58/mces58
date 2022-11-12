@@ -5,7 +5,7 @@
 <!-- rocky.gif -->
 <!-- https://media.giphy.com/media/l0HlLZiHatn0BLJde/giphy.gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlLZiHatn0BLJde/giphy.gif" align="center"  />
+  <img src="https://media.giphy.com/media/l0HlLZiHatn0BLJde/giphy.gif" align="center" width="800" height="300"/>
 </div>
 </br>
 <hr>
