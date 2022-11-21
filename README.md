@@ -7,7 +7,7 @@
 
 <!-- sherlock holmes.gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/fv8KclrYGp5dK/giphy.gif" align="center" width="800" height="300"/>
+  <img src="https://media.giphy.com/media/fv8KclrYGp5dK/giphy.gif" align="center"/>
 </div>
 
 </br>
