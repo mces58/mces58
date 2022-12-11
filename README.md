@@ -131,15 +131,6 @@ me.say_hi()
 
 <hr>
 
-<!-- constribution graph -->
-<h2 align = "center"><em><strong> Constribution graph </strong></em></h2>
-<a href="https://github.com/mces58/github-readme-activity-graph">
-  <img alt="Mehmetcan's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mces58&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFF&hide_border=true" />
-</a>
-
-</br>
-<hr>
-
 <!-- profil visitor -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mces58&&style=flat-square" align="center" />
