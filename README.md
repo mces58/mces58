@@ -20,14 +20,14 @@ class AboutMe:
     def __init__(self):
         self.name = "Mehmetcan ESER"
         self.role = "Computer Engineer"
-        self.language_spoken = ["tr_TR", "en_US"]
+        self.languageSpoken = ["tr_TR", "en_US"]
 
-    def say_hi(self):
+    def sayHi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
 me = AboutMe()
-me.say_hi()
+me.sayHi()
 ```
 
 </br>
