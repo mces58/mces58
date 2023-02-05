@@ -15,7 +15,7 @@
 
 <!-- about me code -->
 ```python
-class ComputerEngineer:
+class AboutMe:
 
     def __init__(self):
         self.name = "Mehmetcan ESER"
@@ -26,7 +26,7 @@ class ComputerEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = ComputerEngineer()
+me = AboutMe()
 me.say_hi()
 ```
 
