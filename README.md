@@ -87,27 +87,27 @@ me.sayHi()
 <h2 align = "center"><em><strong> Connect with me </strong></em></h2>
 <div align="center">
   <a href="https://ceser446@gmail.com" target="_blank">
-    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&color=rgb(234,67,53)&logoColor=white alt=gmail style="margin: 10px; width:150px; height:40px;" />
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&color=rgb(234,67,53)&logoColor=white alt=gmail style="margin: 10px; width:125px; height:35px;" />
   </a>
   
   <a href="https://linkedin.com/in/mces58" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&color=rgb(10,102,194)&logoColor=white alt=linkedin style="margin: 10px; width:150px; height:40px" />
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&color=rgb(10,102,194)&logoColor=white alt=linkedin style="margin: 10px; width:125px; height:35px" />
   </a>
 
   <a href="https://instagram.com/mces58" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&color=rgb(228,64,95)&logoColor=white alt=instagram style="margin: 10px; width:150px; height:40px" />
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&color=rgb(228,64,95)&logoColor=white alt=instagram style="margin: 10px; width:125px; height:35px" />
   </a>
   
   <a href="https://github.com/mces58" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 10px; width:150px; height:40px" />
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 10px; width:125px; height:35px" />
   </a>
   
   <a href="https://medium.com/@ceser446" target="_blank">
-    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin: 10px; width:150px; height:40px" />
+    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin: 10px; width:125px; height:35px" />
   </a>
   
   <a href="https://www.youtube.com/channel/UCwkBsL4p43ktNKS0tP-fqiw" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin: 10px; width:150px; height:40px" />
+    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin: 10px; width:125px; height:35px" />
   </a>  
 </div>  
 
