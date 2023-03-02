@@ -41,7 +41,7 @@ me.sayHi()
 
 | Github Stats | Top Languages | 
 | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=mces58&show_icons=true&count_private=true&hide_border=false&bg_color=30,FD841F,9C2C77&title_color=fff&text_color=000) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mces58&hide_border=false&bg_color=70,181818,850E35&title_color=fff&text_color=fff) |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=mces58&show_icons=true&count_private=true&hide_border=false&bg_color=30,FD841F,9C2C77&title_color=fff&text_color=000) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mces58&langs_count=9&hide_border=false&bg_color=70,181818,850E35&title_color=fff&text_color=fff)|
 </br>
 <hr>
 
@@ -87,31 +87,27 @@ me.sayHi()
 <h2 align = "center"><em><strong> Connect with me </strong></em></h2>
 <div align="center">
   <a href="https://ceser446@gmail.com" target="_blank">
-    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black alt=gmail style="margin: 10px;" />
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&color=rgb(234,67,53)&logoColor=white alt=gmail style="margin: 10px; width:150px; height:40px;" />
   </a>
   
-  <a href="https://linkedin.com/in/mehmetcan-eser-1265a7210" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black alt=linkedin style="margin: 10px;" />
+  <a href="https://linkedin.com/in/mces58" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&color=rgb(10,102,194)&logoColor=white alt=linkedin style="margin: 10px; width:150px; height:40px" />
+  </a>
+
+  <a href="https://instagram.com/mces58" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&color=rgb(228,64,95)&logoColor=white alt=instagram style="margin: 10px; width:150px; height:40px" />
   </a>
   
   <a href="https://github.com/mces58" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 10px;" />
-  </a>
-  
-  <a href="https://codepen.com/mc_es58" target="_blank">
-    <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin: 10px;" />
-  </a>
-  
-  <a href="https://stackoverflow.com/users/20206939/can" target="_blank">
-    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=black alt=stackoverflow style="margi: 10px;" />
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 10px; width:150px; height:40px" />
   </a>
   
   <a href="https://medium.com/@ceser446" target="_blank">
-    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin: 10px;" />
+    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin: 10px; width:150px; height:40px" />
   </a>
   
   <a href="https://www.youtube.com/channel/UCwkBsL4p43ktNKS0tP-fqiw" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=black alt=youtube style="margin: 10px;" />
+    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin: 10px; width:150px; height:40px" />
   </a>  
 </div>  
 
