@@ -41,7 +41,7 @@ me.sayHi()
 
 | Github Stats | Top Languages | 
 | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=mces58&show_icons=true&count_private=true&hide_border=false&bg_color=30,FD841F,9C2C77&title_color=fff&text_color=000) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mces58&langs_count=9&hide_border=false&bg_color=70,181818,850E35&title_color=fff&text_color=fff)|
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=mces58&show_icons=true&count_private=true&hide_border=false&bg_color=30,FD841F,9C2C77&title_color=fff&text_color=000) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mces58&langs_count=9&layout=compact&hide_border=false&bg_color=70,181818,850E35&title_color=fff&text_color=fff)|
 </br>
 <hr>
 
