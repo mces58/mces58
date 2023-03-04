@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Leckerli+One&size=30&pause=500&color=F7DD2E&center=true&width=435&lines=Think+Twice+Code+Once+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Leckerli+One&size=30&duration=4000&pause=500&color=F7DD2E&center=true&width=435&lines=Think+Twice+Code+Once+!" alt="Typing SVG" /></a>
 </div>
 
 <!-- sherlock holmes.gif -->
