@@ -55,7 +55,7 @@ me.sayHi()
 <h2 align = "center"><em><strong> My skill set </strong></em></h2>
 <table>
   <tr>
-    <td valign="top" width="400px">
+    <td valign="top" width="300px">
       <h3 align = "center"><em><strong> Fronted </strong></em></h3>
       <div align="center">   
         <ul type="none">
