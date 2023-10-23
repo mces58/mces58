@@ -55,7 +55,7 @@ me.sayHi()
 <h2 align = "center"><em><strong> My skill set </strong></em></h2>
 <table>
   <tr>
-    <td valign="top" width="300px">
+    <td valign="top" width="400px">
       <div align="center">  
         <ul type="none">
           <h3 align = "center"><em><strong> Fronted </strong></em></h3>
@@ -74,12 +74,19 @@ me.sayHi()
           </li>
           <hr width="200px"/>
           <li>
-            <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="55" /></a>  
+            <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="55" /></a>
+            &nbsp;
+            &nbsp;
+            <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="55" /></a>
+          </li>
+          <hr width="200px"/>
+          <li>
+            <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="55" /></a>
           </li>
         </ul>
       </div>
     </td>
-    <td valign="top" width="500px">
+    <td valign="top" width="400px">
       <div align="center">  
         <ul type="none" >
           <h3 align = "center"><em><strong> Backend </strong></em></h3>
@@ -119,7 +126,7 @@ me.sayHi()
         </ul>        
       </div>
     </td>
-    <td valign="top" width="300px">
+    <td valign="top" width="400px">
       <div align="center">  
         <ul type="none" align="center">
           <h3 align = "center"><em><strong> DevOps </strong></em></h3>
