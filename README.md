@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Leckerli+One&size=30&duration=4000&pause=500&color=F7DD2E&center=true&width=435&lines=Think+Twice+Code+Once+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Leckerli+One&size=30&duration=4000&pause=500&color=F7DD2E&center=true&width=435&lines=Think+Twice+Code+Once!" alt="Typing SVG" /></a>
 </div>
 
 <!-- sherlock holmes.gif -->
@@ -56,9 +56,9 @@ me.sayHi()
 <table>
   <tr>
     <td valign="top" width="300px">
-      <h3 align = "center"><em><strong> Fronted </strong></em></h3>
-      <div align="center">   
+      <div align="center">  
         <ul type="none">
+          <h3 align = "center"><em><strong> Fronted </strong></em></h3>
           <li>
             <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" /></a> 
              &nbsp;
@@ -80,9 +80,9 @@ me.sayHi()
       </div>
     </td>
     <td valign="top" width="500px">
-      <h3 align = "center"><em><strong> Backend </strong></em></h3>
       <div align="center">  
-        <ul type="none">
+        <ul type="none" >
+          <h3 align = "center"><em><strong> Backend </strong></em></h3>
           <li>
             <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" height="55" /></a>
              &nbsp;
@@ -120,9 +120,13 @@ me.sayHi()
       </div>
     </td>
     <td valign="top" width="300px">
-      <h3 align = "center"><em><strong> DevOps </strong></em></h3>
       <div align="center">  
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
+        <ul type="none" align="center">
+          <h3 align = "center"><em><strong> DevOps </strong></em></h3>
+          <li>
+            <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
+          </li>
+        </ul>
       </div>
     </td>
   </tr>
