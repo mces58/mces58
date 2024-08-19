@@ -80,9 +80,11 @@ me.sayHi()
             </a>
             &nbsp;
             &nbsp;
+            &nbsp;
             <a href="https://www.w3schools.com/css" target="_blank" title="css3">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" />
             </a>
+            &nbsp;
             &nbsp;
             &nbsp;
             <a href="https://getbootstrap.com" target="_blank" title="bootstrap">
@@ -98,9 +100,11 @@ me.sayHi()
             </a>
             &nbsp;
             &nbsp;
+            &nbsp;
             <a href="https://babeljs.io" target="_blank" title="babel">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="50" />
             </a>
+            &nbsp;
             &nbsp;
             &nbsp;
             <a href="https://webpack.js.org" target="_blank" title="webpack">
@@ -116,9 +120,11 @@ me.sayHi()
             </a>
             &nbsp;
             &nbsp;
+            &nbsp;
             <a href="https://vitejs.dev" target="_blank" title="vite">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="50" />
             </a>
+            &nbsp;
             &nbsp;
             &nbsp;
             &nbsp;
@@ -135,9 +141,11 @@ me.sayHi()
             </a>
             &nbsp;
             &nbsp;
+            &nbsp;
             <a href="https://docs.expo.dev" target="_blank" title="expo">
               <img src="https://img.icons8.com/?id=IpN1evivrDWO&format=png&color=FFFFFF" width="50" />
             </a>
+            &nbsp;
             &nbsp;
             &nbsp;
             <a href="https://redux.js.org" target="_blank" title="redux">
@@ -153,9 +161,11 @@ me.sayHi()
             </a>
             &nbsp;
             &nbsp;
+            &nbsp;
             <a href="https://www.npmjs.com" target="_blank" title="npm">
               <img src="https://img.icons8.com/?id=24895&format=png" width="60" />
             </a>
+            &nbsp;
             &nbsp;
             &nbsp;
             <a href="https://www.figma.com" target="_blank" title="figma">
@@ -174,9 +184,11 @@ me.sayHi()
             </a>
             &nbsp;
             &nbsp;
+            &nbsp;
             <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" title="c#">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" />
             </a>
+            &nbsp;
             &nbsp;
             &nbsp;
             <a href="https://www.python.org" target="_blank" title="python">
@@ -192,9 +204,11 @@ me.sayHi()
             </a>
             &nbsp;
             &nbsp;
+            &nbsp;
             <a href="https://spring.io" target="_blank" title="spring">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" />
             </a>
+            &nbsp;
             &nbsp;
             &nbsp;
             <a href="https://hibernate.org" target="_blank" title="hibernate">
@@ -210,9 +224,11 @@ me.sayHi()
             </a>
             &nbsp;
             &nbsp;
+            &nbsp;
             <a href="https://www.typescriptlang.org" target="_blank" title="typescript">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" />
             </a>
+            &nbsp;
             &nbsp;
             &nbsp;
             <a href="https://go.dev" target="_blank" title="golang">
@@ -228,9 +244,11 @@ me.sayHi()
             </a>
             &nbsp;
             &nbsp;
+            &nbsp;
             <a href="https://expressjs.com" target="_blank" title="expressjs">
               <img src="https://img.icons8.com/?id=2ZOaTclOqD4q&format=png" width="55" />
             </a>
+            &nbsp;
             &nbsp;
             &nbsp;
             <a href="https://socket.io" target="_blank" title="socket.io">
@@ -241,13 +259,35 @@ me.sayHi()
         <hr style="height: 5px" />
         <li>
           <div align="center">
+            <a href="https://pugjs.org/api/getting-started.html" target="_blank" title="pug">
+              <img src="https://img.icons8.com/?id=61393&format=png" width="45" />
+            </a>
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            <a href="https://ejs.co" target="_blank" title="ejs">
+              <img src="https://img.icons8.com/?id=Pxe6MGswB8pX&format=png" width="50" />
+            </a>
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            <a href="https://www.thymeleaf.org" target="_blank" title="thymeleaf">
+              <img src="https://img.icons8.com/?id=iWpVsSkAqPpZ&format=png" width="50" />
+            </a>
+          </div>
+        </li>
+        <hr style="height: 5px" />
+        <li>
+          <div align="center">
             <a href="https://www.mongodb.com" target="_blank" title="mongoDB">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" />
             </a>
             &nbsp;
+            &nbsp;
             <a href="https://mongoosejs.com" target="_blank" title="mongoose">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="60" />
             </a>
+            &nbsp;
             &nbsp;
             &nbsp;
             &nbsp;
@@ -263,7 +303,7 @@ me.sayHi()
         <li>
           <div align="center">
             <a href="https://git-scm.com" target="_blank" title="git">
-              <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000" />
+              <img src="https://img.icons8.com/?id=20906&format=png" width="50" />
             </a>
           </div>
         </li>
