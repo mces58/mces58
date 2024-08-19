@@ -170,17 +170,17 @@ me.sayHi()
         <li>
           <div align="center">
             <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" title="c">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" />
             </a>
             &nbsp;
             &nbsp;
             <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" title="c#">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" />
             </a>
             &nbsp;
             &nbsp;
             <a href="https://www.python.org" target="_blank" title="python">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
             </a>
           </div>
         </li>
@@ -223,12 +223,12 @@ me.sayHi()
         <hr style="height: 5px" />
         <li>
           <div align="center">
-            <a href="https://nodejs.org/en" target="_blank" title="nodejs" style="margin-right: 15px">
+            <a href="https://nodejs.org/en" target="_blank" title="nodejs">
               <img src="https://img.icons8.com/?id=hsPbhkOH4FMe&format=png" width="50" />
             </a>
             &nbsp;
             &nbsp;
-            <a href="https://expressjs.com" target="_blank" title="expressjs" style="margin-right: 15px">
+            <a href="https://expressjs.com" target="_blank" title="expressjs">
               <img src="https://img.icons8.com/?id=2ZOaTclOqD4q&format=png" width="55" />
             </a>
             &nbsp;
@@ -241,11 +241,11 @@ me.sayHi()
         <hr style="height: 5px" />
         <li>
           <div align="center">
-            <a href="https://www.mongodb.com" target="_blank" title="mongoDB" style="margin-right: 10px">
+            <a href="https://www.mongodb.com" target="_blank" title="mongoDB">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" />
             </a>
             &nbsp;
-            <a href="https://mongoosejs.com" target="_blank" title="mongoose" style="margin-right: 20px">
+            <a href="https://mongoosejs.com" target="_blank" title="mongoose">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="60" />
             </a>
             &nbsp;
