@@ -217,8 +217,8 @@ me.sayHi()
           </div>
         </li>
         <hr style="height: 5px" />
-        <li align="center">
-          <div>
+        <li>
+          <div align="center">
             <a href="https://www.javascript.com" target="_blank" title="javascript">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" />
             </a>
@@ -304,6 +304,11 @@ me.sayHi()
           <div align="center">
             <a href="https://git-scm.com" target="_blank" title="git">
               <img src="https://img.icons8.com/?id=20906&format=png" width="50" />
+            </a>
+            &nbsp;
+            &nbsp;
+            <a href="https://docs.github.com/en" target="_blank" title="github">
+              <img src="https://img.icons8.com/?id=12599&format=png&color=FFFFFF" width="50" />
             </a>
           </div>
         </li>
