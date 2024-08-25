@@ -299,7 +299,7 @@ me.sayHi()
             &nbsp;
             &nbsp;
             <a href="https://mongoosejs.com" target="_blank" title="mongoose">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="60" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="55" />
             </a>
             &nbsp;
             &nbsp;
