@@ -154,7 +154,7 @@ me.sayHi()
           </div>
         </li>
         <hr style="height: 5px" />
-        <li style="padding: 0 15px">
+        <li>
          <div align="center">
             <a href="https://firebase.google.com" target="_blank" title="firebase">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" />
@@ -163,13 +163,27 @@ me.sayHi()
             &nbsp;
             &nbsp;
             <a href="https://www.npmjs.com" target="_blank" title="npm">
-              <img src="https://img.icons8.com/?id=24895&format=png" width="60" />
-            </a>
+              <img src="https://img.icons8.com/?id=24895&format=png" width="50" />
+            </a>  
             &nbsp;
             &nbsp;
             &nbsp;
             <a href="https://www.figma.com" target="_blank" title="figma">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" />
+            </a>
+         </div>
+        </li>
+        <hr style="height: 5px" />
+        <li>
+         <div align="center">
+            <a href="https://storybook.js.org" target="_blank" title="storybook">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" width="50" />
+            </a>  
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            <a href="https://eslint.org" target="_blank" title="eslint">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="50" />
             </a>
          </div>
         </li>
