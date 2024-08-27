@@ -156,8 +156,8 @@ me.sayHi()
         <hr style="height: 5px" />
         <li>
          <div align="center">
-            <a href="https://firebase.google.com" target="_blank" title="firebase">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" />
+            <a href="https://supabase.com/docs" target="_blank" title="supabase">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" />
             </a>
             &nbsp;
             &nbsp;
