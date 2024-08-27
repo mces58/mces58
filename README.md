@@ -168,8 +168,8 @@ me.sayHi()
             &nbsp;
             &nbsp;
             &nbsp;
-            <a href="https://www.figma.com" target="_blank" title="figma">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" />
+            <a href="https://yarnpkg.com" "target="_blank" title="yarn">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="50" />
             </a>
          </div>
         </li>
@@ -184,6 +184,12 @@ me.sayHi()
             &nbsp;
             <a href="https://eslint.org" target="_blank" title="eslint">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="50" />
+            </a>  
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            <a href="https://www.figma.com" target="_blank" title="figma">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" />
             </a>
          </div>
         </li>
